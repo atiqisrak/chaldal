@@ -12,7 +12,7 @@ The Chaldal Product Scraper is a powerful web application designed to extract an
 - **Real-Time Data Extraction**: Live scraping with progress indication
 - **Structured Data Output**: Organized presentation of scraped product information
 - **Cross-Platform Compatibility**: Works on all modern web browsers
-- **Powered by Ether Technologies Ltd.**: Developed with industry expertise
+- **Powered by Chaldal**: Developed with industry expertise
 
 ## Use Cases
 
@@ -69,17 +69,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For support, please:
 
 - Open an issue in the GitHub repository
-- Contact Ether Technologies Ltd. support team
+- Contact Chaldal support team
 - Check our documentation for common solutions
 
 ## Acknowledgments
 
-- Ether Technologies Ltd. for development and maintenance
-- Chaldal for providing the platform
+- Chaldal for development and maintenance
 - Open source community for various tools and libraries
 
 ## Contact
 
-- Website: [Ether Technologies Ltd.](https://ethertech.com)
-- Email: support@ethertech.com
-- GitHub: [@ethertech](https://github.com/ethertech)
+- Website: [Chaldal](https://chaldal.com)
+- Email: support@chaldal.com
+- GitHub: [@chaldal](https://github.com/chaldal)
