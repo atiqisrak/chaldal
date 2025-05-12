@@ -68,10 +68,10 @@ module.exports = async (req, res) => {
 
       // Set cookie for the response
       res.setHeader("Set-Cookie", [
-        `user=${JSON.stringify(user)}; Path=/; HttpOnly; SameSite=Lax`,
+        `user=${JSON.stringify(user)}; Path=/; HttpOnly; SameSite=None; Secure`,
         `next-auth.csrf-token=${
           req.cookies?.["next-auth.csrf-token"] || ""
-        }; Path=/; HttpOnly; SameSite=Lax`,
+        }; Path=/; HttpOnly; SameSite=None; Secure`,
       ]);
 
       res.send(fileContent);
