@@ -75,11 +75,30 @@ module.exports = async (req, res) => {
     }));
 
     // Set cookie for the response
+    const csrfToken =
+      "e16d4300026d81c71cb06aed5bdb091da176d1b719439dbb71e1bb6bf4f67147|75485f6ed52b4abef44007c0aebf3e7f972cbb0fb04efa298db3ba91c105cc1c";
+    const callbackUrl = "https://chaldal-scraper.vercel.app/";
+    const userData = {
+      id: 2,
+      username: "chaldal",
+      email: "chaldal@gmail.com",
+      name: "Chaldal",
+      role: "admin",
+      token:
+        "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MiwiaWF0IjoxNzQyODg0ODQ1LCJleHAiOjE3NDI5NzEyNDV9.VTHZWmndDTJf4HJPyTAqV5lFX2_fXzhLU0iW7mL2tbw",
+      has_active_license: true,
+    };
+
     res.setHeader("Set-Cookie", [
-      `user=${JSON.stringify(user)}; Path=/; HttpOnly; SameSite=None; Secure`,
-      `next-auth.csrf-token=${
-        req.cookies?.["next-auth.csrf-token"] || ""
-      }; Path=/; HttpOnly; SameSite=None; Secure`,
+      `next-auth.callback-url=${encodeURIComponent(
+        callbackUrl
+      )}; Path=/; HttpOnly; SameSite=None; Secure`,
+      `next-auth.csrf-token=${csrfToken}; Path=/; HttpOnly; SameSite=None; Secure`,
+      `user=${encodeURIComponent(
+        JSON.stringify(userData)
+      )}; Path=/; HttpOnly; SameSite=None; Secure`,
+      `_ga=GA1.1.2007506391.1746616023; Path=/; SameSite=None; Secure`,
+      `_ga_59SFLK756L=GS2.1.s1746618578$o2$g0$t1746618578$j0$l0$h0; Path=/; SameSite=None; Secure`,
     ]);
 
     res.json({ success: true, results: responseResults });
