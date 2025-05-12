@@ -3,46 +3,78 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Chaldal Product Scraper</title>
+    <meta
+      name="description"
+      content="Chaldal Product Scraper - Extract product information from Chaldal category URLs easily. A powerful tool for data collection and analysis."
+    />
+    <meta
+      name="keywords"
+      content="Chaldal, product scraper, web scraping, data extraction, category products, Bangladesh e-commerce"
+    />
+    <meta name="author" content="Ether Technologies Ltd." />
+    <meta name="robots" content="index, follow" />
+    <meta property="og:title" content="Chaldal Product Scraper" />
+    <meta
+      property="og:description"
+      content="Extract product information from Chaldal category URLs easily. A powerful tool for data collection and analysis."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="/logo.webp" />
+    <link rel="canonical" href="https://your-domain.com" />
+    <title>Chaldal Product Scraper - Extract Product Data Easily</title>
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-    <div class="container">
-      <div class="header-holder">
-        <img
-          src="https://chaldn.com/asset/Egg.ChaldalWeb.Fabric/Egg.ChaldalWeb/1.0.0-Deploy-Release-791/Default/components/header/Header/images/logo-small.png?q=low&webp=1&alpha=1"
-          alt="Chaldal Logo"
-        />
-        <h1 class="title">Product Scraper</h1>
+    <header>
+      <div class="container">
+        <div class="header-holder">
+          <img src="/logo.webp" alt="Chaldal Logo" width="150" height="50" />
+          <h1 class="title">Product Scraper</h1>
+        </div>
       </div>
-      <div class="scraper-container input-section">
-        <input
-          class="input-field"
-          type="text"
-          id="urlInput"
-          placeholder="Category URL (e.g. https://chaldal.com/meat-new)"
-        />
-        <button id="scrapeButton" onclick="startScraping()">
-          Start Scraping
-        </button>
-      </div>
+    </header>
+    <main>
+      <div class="container">
+        <section
+          class="scraper-container input-section"
+          aria-label="Scraper Input"
+        >
+          <input
+            class="input-field"
+            type="text"
+            id="urlInput"
+            placeholder="Category URL (e.g. https://chaldal.com/meat-new)"
+            aria-label="Category URL Input"
+          />
+          <button
+            id="scrapeButton"
+            onclick="startScraping()"
+            aria-label="Start Scraping"
+          >
+            Start Scraping
+          </button>
+        </section>
 
-      <div id="loadingSection" class="hidden">
-        <div class="spinner"></div>
-        <p>Scraping in progress...</p>
-      </div>
+        <section id="loadingSection" class="hidden" aria-label="Loading Status">
+          <div class="spinner"></div>
+          <p>Scraping in progress...</p>
+        </section>
 
-      <div id="resultsSection" class="hidden">
-        <h2>Results</h2>
-        <div id="resultsList"></div>
+        <section
+          id="resultsSection"
+          class="hidden"
+          aria-label="Scraping Results"
+        >
+          <h2>Results</h2>
+          <div id="resultsList"></div>
+        </section>
       </div>
-    </div>
+    </main>
     <footer>
-      <p>Powered by</p>
-      <img
-        src="https://chaldn.com/asset/Egg.ChaldalWeb.Fabric/Egg.ChaldalWeb/1.0.0-Deploy-Release-791/Default/components/header/Header/images/logo-small.png?q=low&webp=1&alpha=1"
-        alt="Chaldal Logo"
-      />
+      <div class="container">
+        <p>Powered by</p>
+        <img src="/logo.webp" alt="Chaldal Logo" width="100" height="33" />
+      </div>
     </footer>
     <script src="script.js"></script>
   </body>

@@ -10,18 +10,27 @@ body {
   line-height: 1.6;
   background: linear-gradient(135deg, #f0f0f0, #d3d3d3);
   color: #333;
+  min-height: 100vh;
+  position: relative;
+  padding-bottom: 80px; /* Space for footer */
 }
 
 .container {
   max-width: 900px;
-  margin: 5rem auto;
+  margin: 0 auto;
   padding: 2.5rem;
+}
+
+header {
+  margin-top: 5rem;
+}
+
+header .container {
   backdrop-filter: blur(10px);
   background: rgba(255, 255, 255, 0.2);
   border: 1px solid rgba(255, 255, 255, 0.3);
   box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
   border-radius: 12px;
-  margin-top: 10%;
 }
 
 .header-holder {
@@ -33,7 +42,8 @@ body {
 
 .header-holder img {
   width: 150px;
-  height: auto;
+  height: 50px;
+  object-fit: contain;
 }
 
 h1 {
@@ -43,25 +53,17 @@ h1 {
   margin-left: 1rem;
 }
 
-.input-section {
+main .container {
+  margin-top: 2rem;
+  backdrop-filter: blur(10px);
+  background: rgba(255, 255, 255, 0.2);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  border-radius: 12px;
+}
+
+.scraper-container {
   margin-bottom: 2rem;
-}
-
-textarea {
-  width: 100%;
-  height: 150px;
-  padding: 1rem;
-  border: 2px solid #ddd;
-  border-radius: 5px;
-  resize: vertical;
-  font-family: inherit;
-  font-size: 1rem;
-  margin-bottom: 1rem;
-}
-
-textarea:focus {
-  outline: none;
-  border-color: #f7ca03;
 }
 
 .input-field {
@@ -92,6 +94,7 @@ button {
   cursor: pointer;
   transition: background-color 0.2s;
   font-weight: bold;
+  width: 100%;
 }
 
 button:hover {
@@ -143,15 +146,15 @@ button:disabled {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  border-left: 5px solid #bdc3c7; /* Default border */
+  border-left: 5px solid #bdc3c7;
 }
 
 .result-item.success {
-  border-left-color: #2ecc71; /* Green for success */
+  border-left-color: #2ecc71;
 }
 
 .result-item.error {
-  border-left-color: #e74c3c; /* Red for error */
+  border-left-color: #e74c3c;
 }
 
 .result-info {
@@ -177,7 +180,7 @@ button:disabled {
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
-  min-width: 120px; /* Ensure buttons don't get too squished */
+  min-width: 120px;
 }
 
 .action-btn {
@@ -195,7 +198,7 @@ button:disabled {
 }
 
 .action-btn.download:hover {
-  background-color: #f7ca03;
+  background-color: #e67e22;
 }
 
 .action-btn.view {
@@ -204,36 +207,14 @@ button:disabled {
 }
 
 .action-btn.view:hover {
-  background-color: #f7ca03;
-}
-
-/* Responsive adjustments for smaller screens */
-@media (max-width: 600px) {
-  .result-item {
-    flex-direction: column;
-    align-items: flex-start;
-  }
-
-  .result-actions {
-    flex-direction: row;
-    width: 100%;
-    margin-top: 0.75rem;
-  }
-
-  .action-btn {
-    flex-grow: 1;
-  }
+  background-color: #e67e22;
 }
 
 footer {
   text-align: center;
   padding: 1rem;
-  background: rgba(255, 255, 255, 0.1);
-  color: #676767;
-  background-color: #f7ca03;
-  margin-top: 2rem;
-  border-radius: 5px;
-  border-top: 1px solid rgba(255, 255, 255, 0.3);
+  background: #f7ca03;
+  color: #333;
   position: fixed;
   bottom: 0;
   width: 100%;
@@ -241,20 +222,81 @@ footer {
   justify-content: center;
   align-items: center;
 }
+
+footer .container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0.5rem;
+}
+
 footer img {
   width: 100px;
-  height: auto;
+  height: 33px;
+  object-fit: contain;
 }
 
 footer p {
   margin-right: 1rem;
-  font-size: 1.2rem;
-  font-weight: bold;
+  font-weight: 500;
 }
 
-.scraper-container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .container {
+    padding: 1.5rem;
+    margin: 1rem;
+  }
+
+  header {
+    margin-top: 2rem;
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  .header-holder img {
+    width: 120px;
+    height: 40px;
+  }
+
+  .input-field,
+  button {
+    padding: 1rem;
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .container {
+    padding: 1rem;
+    margin: 0.5rem;
+  }
+
+  header {
+    margin-top: 1rem;
+  }
+
+  h1 {
+    font-size: 1.5rem;
+  }
+
+  .header-holder {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .header-holder img {
+    margin-bottom: 1rem;
+  }
+
+  footer {
+    padding: 0.5rem;
+  }
+
+  footer img {
+    width: 80px;
+    height: 26px;
+  }
 }

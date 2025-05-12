@@ -52,7 +52,6 @@ async function startScraping() {
                       !result.error
                         ? `
                         <a href="${result.downloadUrl}" class="action-btn download" download>Download JSON</a>
-                        <a href="/api/download/${result.filename}" class="action-btn view" target="_blank">View JSON</a>
                     `
                         : ""
                     }
