@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chaldal Product Scraper</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="header-holder">
+        <img
+          src="https://chaldn.com/asset/Egg.ChaldalWeb.Fabric/Egg.ChaldalWeb/1.0.0-Deploy-Release-791/Default/components/header/Header/images/logo-small.png?q=low&webp=1&alpha=1"
+          alt="Chaldal Logo"
+        />
+        <h1 class="title">Product Scraper</h1>
+      </div>
+      <div class="scraper-container input-section">
+        <input
+          class="input-field"
+          type="text"
+          id="urlInput"
+          placeholder="Category URL (e.g. https://chaldal.com/meat-new)"
+        />
+        <button id="scrapeButton" onclick="startScraping()">
+          Start Scraping
+        </button>
+      </div>
+
+      <div id="loadingSection" class="hidden">
+        <div class="spinner"></div>
+        <p>Scraping in progress...</p>
+      </div>
+
+      <div id="resultsSection" class="hidden">
+        <h2>Results</h2>
+        <div id="resultsList"></div>
+      </div>
+    </div>
+    <footer>
+      <p>Powered by Ether Technologies Ltd.</p>
+      <img
+        src="https://ethertech.ltd/wp-content/uploads/2023/07/Ether-Tech-Logo-v2.0-1-300x169.png"
+        alt="Ether Technologies Ltd"
+      />
+    </footer>
+    <script src="script.js"></script>
+  </body>
+</html>

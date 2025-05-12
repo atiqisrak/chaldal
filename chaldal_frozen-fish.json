@@ -1,0 +1,476 @@
+[
+  {
+    "name": "Horina Chingri (Shrimp) 65-80 pcs ±15 gm",
+    "unit": "250 gm",
+    "price": "৳229",
+    "image": "https://chaldn.com/_mpimage/horina-chingri-shrimp-65-80-pcs-15-gm-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103440&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Bagda Chingri (Shrimp) 45-55 pcs ±30 gm",
+    "unit": "500 gm",
+    "price": "৳419",
+    "image": "https://chaldn.com/_mpimage/bagda-chingri-shrimp-45-55-pcs-30-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103452&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Pabda Fish ±30 gm",
+    "unit": "500 gm",
+    "price": "৳225",
+    "image": "https://chaldn.com/_mpimage/pabda-fish-30-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103441&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Golda Chingri (Shrimp) 16-20 pcs ±30 gm",
+    "unit": "500 gm",
+    "price": "৳549",
+    "image": "https://chaldn.com/_mpimage/golda-chingri-shrimp-16-20-pcs-30-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103451&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Kaski Fish ±15 gm",
+    "unit": "250 gm",
+    "price": "৳179",
+    "image": "https://chaldn.com/_mpimage/kaski-fish-15-gm-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103443&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Rui Fish After Cutting ±50 gm",
+    "unit": "1 kg",
+    "price": "৳429",
+    "image": "https://chaldn.com/_mpimage/rui-fish-after-cutting-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D116875&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Pangas Fish After Cutting ±50 gm",
+    "unit": "1 kg",
+    "price": "৳269",
+    "image": "https://chaldn.com/_mpimage/pangas-fish-after-cutting-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103558&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Mola Fish Deshi ±15 gm",
+    "unit": "250 gm",
+    "price": "৳119",
+    "image": "https://chaldn.com/_mpimage/mola-fish-deshi-15-gm-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D121898&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Gura Chingri (Shrimp) ±15 gm",
+    "unit": "250 gm",
+    "price": "৳199",
+    "image": "https://chaldn.com/_mpimage/gura-chingri-shrimp-15-gm-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103458&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Koi Fish Processed ±50 gm",
+    "unit": "1 kg",
+    "price": "৳439",
+    "image": "https://chaldn.com/_mpimage/koi-fish-processed-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D120746&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Bagda Chingri (Shrimp) 18-22 pcs ±30 gm",
+    "unit": "500 gm",
+    "price": "৳589",
+    "image": "https://chaldn.com/_mpimage/bagda-chingri-shrimp-18-22-pcs-30-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D139150&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Telapiya Fish Processed ±50 gm",
+    "unit": "1 kg",
+    "price": "৳340",
+    "image": "https://chaldn.com/_mpimage/telapiya-fish-processed-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D116873&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Shing Fish Processed ±30 gm",
+    "unit": "500 gm",
+    "price": "৳349",
+    "image": "https://chaldn.com/_mpimage/shing-fish-processed-30-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103459&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Chaldal Premium Rui Fish Headless Curry Cut (7-11 pcs) ±30 gm",
+    "unit": "500 gm",
+    "price": "৳339",
+    "image": "https://chaldn.com/_mpimage/chaldal-premium-rui-fish-headless-curry-cut-7-11-pcs-30-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D175488&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Chaldal Premium Pangas Fish Curry Cut (5-8 pcs) ±30 gm",
+    "unit": "500 gm",
+    "price": "৳149",
+    "image": "https://chaldn.com/_mpimage/chaldal-premium-pangas-fish-curry-cut-5-8-pcs-30-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D174611&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Chaldal Premium Shing Fish Large (Processed) ±30 gm",
+    "unit": "500 gm",
+    "price": "৳329",
+    "image": "https://chaldn.com/_mpimage/chaldal-premium-shing-fish-large-processed30-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D174607&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Poa Fish ± 30 gm",
+    "unit": "500 gm",
+    "price": "৳299",
+    "image": "https://chaldn.com/_mpimage/poa-fish-30-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103477&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Silver Carp Fish After Cutting ±50 gm",
+    "unit": "1 kg",
+    "price": "৳289",
+    "image": "https://chaldn.com/_mpimage/silver-carp-fish-after-cutting-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D126107&q=best&v=1&m=400&m=400&webp=1"
+  },
+  {
+    "name": "The Bachelor Pack Horina Chingri (Shrimp Whole) 18-22 pcs ± 15 gm",
+    "unit": "110 gm",
+    "price": "৳99",
+    "image": "https://chaldn.com/_mpimage/the-bachelor-pack-horina-chingri-shrimp-whole-18-22-pcs-15-gm-110-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D173453&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Rupchanda Fish Medium ±30 gm",
+    "unit": "500 gm",
+    "price": "৳599",
+    "image": "https://chaldn.com/_mpimage/rupchanda-fish-medium-30-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D116868&q=best&v=1&m=400&m=400&webp=1"
+  },
+  {
+    "name": "Haor Fish Mix ±30 gm",
+    "unit": "500 gm",
+    "price": "৳319",
+    "image": "https://chaldn.com/_mpimage/haor-fish-mix-30-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103461&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "PQS Chapila Fish Processed",
+    "unit": "250 gm",
+    "price": "৳165",
+    "image": "https://chaldn.com/_mpimage/pqs-chapila-fish-processed-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D125603&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Ayer Fish After Cutting ±30 gm",
+    "unit": "500 gm",
+    "price": "৳499",
+    "image": "https://chaldn.com/_mpimage/ayer-fish-after-cutting-30-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D175814&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Chaldal Premium Catla Fish Large Chinese Cut (3-4 pcs) ±70 gm",
+    "unit": "500 gm",
+    "price": "৳349",
+    "image": "https://chaldn.com/_mpimage/chaldal-premium-catla-fish-large-chinese-cut-3-4-pcs-70-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D174622&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "The Bachelor Pack Rui Fish Processed ± 15 gm",
+    "unit": "200 gm",
+    "price": "৳99",
+    "image": "https://chaldn.com/_mpimage/the-bachelor-pack-rui-fish-processed-15-gm-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D173436&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Catla Fish After Cutting ±70 gm",
+    "unit": "1.5 kg",
+    "price": "৳659",
+    "image": "https://chaldn.com/_mpimage/catla-fish-after-cutting-70-gm-15-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D175813&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "PQS Mix Fish Processed",
+    "unit": "250 gm",
+    "price": "৳210",
+    "image": "https://chaldn.com/_mpimage/pqs-mix-fish-processed-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D173559&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "The Bachelor Pack Pabda Fish Processed ± 15 gm",
+    "unit": "160 gm",
+    "price": "৳99",
+    "image": "https://chaldn.com/_mpimage/the-bachelor-pack-pabda-fish-processed-15-gm-160-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D173460&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Tatkini Fish ±30 gm",
+    "unit": "500 gm",
+    "price": "৳299",
+    "image": "https://chaldn.com/_mpimage/tatkini-fish-30-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103463&q=best&v=1&m=400&m=400&webp=1"
+  },
+  {
+    "name": "PQS Bata Fish Processed",
+    "unit": "250 gm",
+    "price": "৳190",
+    "image": "https://chaldn.com/_mpimage/pqs-bata-fish-processed-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D125598&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Globe Deshi Puti Fish Processed ±15 gm",
+    "unit": "250 gm",
+    "price": "৳145",
+    "image": "https://chaldn.com/_mpimage/globe-deshi-puti-fish-processed-15-gm-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D167560&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Chaldal Premium Pabda Fish Medium (With Head) ±30 gm",
+    "unit": "500 gm",
+    "price": "৳339",
+    "image": "https://chaldn.com/_mpimage/chaldal-premium-pabda-fish-medium-with-head-30-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D174638&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Globe White Fish Fillet (5-8pcs) ±50 gm",
+    "unit": "1 kg",
+    "price": "৳515",
+    "image": "https://chaldn.com/_mpimage/globe-white-fish-fillet-5-8pcs-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D167559&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Farmland Venture Fresh Frozo Golda Shrimp Leg Meat ± 30 gm",
+    "unit": "400 gm",
+    "price": "৳380",
+    "image": "https://chaldn.com/_mpimage/farmland-venture-fresh-frozo-golda-shrimp-leg-meat-30-gm-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D173612&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Mrigel Fish After Cutting ± 50 gm",
+    "unit": "1 kg",
+    "price": "৳459",
+    "image": "https://chaldn.com/_mpimage/mrigel-fish-after-cutting-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D168064&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Tengra Fish Deshi ±20 gm",
+    "unit": "400 gm",
+    "price": "৳290",
+    "image": "https://chaldn.com/_mpimage/tengra-fish-deshi-20-gm-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103472&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Globe Deshi Mola Fish Processed (Headless) ±15 gm",
+    "unit": "250 gm",
+    "price": "৳240",
+    "image": "https://chaldn.com/_mpimage/globe-deshi-mola-fish-processed-headless-15-gm-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D167561&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Chaldal Premium Rui Fish Curry Cut (5-8 pcs) ±30 gm",
+    "unit": "500 gm",
+    "price": "৳299",
+    "image": "https://chaldn.com/_mpimage/chaldal-premium-rui-fish-curry-cut-5-8-pcs-30-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D175486&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "The Bachelor Pack Silver Fish Processed ± 15 gm",
+    "unit": "250 gm",
+    "price": "৳99",
+    "image": "https://chaldn.com/_mpimage/the-bachelor-pack-silver-fish-processed-15-gm-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D173408&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Magur Fish Processed ±30 gm",
+    "unit": "500 gm",
+    "price": "৳699",
+    "image": "https://chaldn.com/_mpimage/magur-fish-processed-30-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D175812&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Koral Fish After Cutting ± 50 gm",
+    "unit": "1 kg",
+    "price": "৳1,039",
+    "image": "https://chaldn.com/_mpimage/koral-fish-after-cutting-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D175500&q=best&v=1&m=400&m=400&webp=1"
+  },
+  {
+    "name": "Puti Fish ±15 gm",
+    "unit": "250 gm",
+    "price": "৳199",
+    "image": "https://chaldn.com/_mpimage/puti-fish-15-gm-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103471&q=best&v=1&m=400&m=400&webp=1"
+  },
+  {
+    "name": "Globe Pangus Fish Sliced ± 50 gm",
+    "unit": "1 kg",
+    "price": "৳370",
+    "image": "https://chaldn.com/_mpimage/globe-pangus-fish-sliced-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D173557&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Globe Telapia Fish Processed ± 50 gm",
+    "unit": "1 kg",
+    "price": "৳375",
+    "image": "https://chaldn.com/_mpimage/globe-telapia-fish-processed-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D173555&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Deshi Sarputi Fish ±30 gm",
+    "unit": "500 gm",
+    "price": "৳299",
+    "image": "https://chaldn.com/_mpimage/deshi-sarputi-fish-30-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103467&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "PQS Baila Fish Processed",
+    "unit": "250 gm",
+    "price": "৳158",
+    "image": "https://chaldn.com/_mpimage/pqs-baila-fish-processed-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D167965&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Globe Sharputi Fish Processed ± 50 gm",
+    "unit": "1 kg",
+    "price": "৳395",
+    "image": "https://chaldn.com/_mpimage/globe-sharputi-fish-processed-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D173558&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Farmland Venture Fresh Frozo Golda Shrimp Brain Processed ± 30 gm",
+    "unit": "400 gm",
+    "price": "৳400",
+    "image": "https://chaldn.com/_mpimage/farmland-venture-fresh-frozo-golda-shrimp-brain-processed-30-gm-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D173514&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Kaptai Lake Rui Fish Curry Cut (7-11 pcs) ± 50 gm",
+    "unit": "500 gm",
+    "price": "৳380",
+    "image": "https://chaldn.com/_mpimage/kaptai-lake-rui-fish-curry-cut-7-11-pcs-50-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D168484&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Chaldal Premium Mrigel Fish Headless ±30 gm",
+    "unit": "500 gm",
+    "price": "৳249",
+    "image": "https://chaldn.com/_mpimage/chaldal-premium-mrigel-fish-headless-30-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D174626&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Farmland Venture Fresh Frozo Rui Fish Processed ± 30 gm",
+    "unit": "500 gm",
+    "price": "৳300",
+    "image": "https://chaldn.com/_mpimage/farmland-venture-fresh-frozo-rui-fish-processed-30-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D173515&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Globe Pabda Fish Whole ±30 gm",
+    "unit": "500 gm",
+    "price": "৳370",
+    "image": "https://chaldn.com/_mpimage/globe-pabda-fish-whole-30-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D167562&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Globe White Fish Fillet (3-4 pcs) ±50 gm",
+    "unit": "1 kg",
+    "price": "৳585",
+    "image": "https://chaldn.com/_mpimage/globe-white-fish-fillet-3-4-pcs-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D167558&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Chaldal Premium Mrigel Fish Curry Cut (5-8 pcs) ±30 gm",
+    "unit": "500 gm",
+    "price": "৳249",
+    "image": "https://chaldn.com/_mpimage/chaldal-premium-mrigel-fish-curry-cut-5-8-pcs-30-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D174617&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Food Network Tuna Fish Cube",
+    "unit": "250 gm",
+    "price": "৳340",
+    "image": "https://chaldn.com/_mpimage/food-network-tuna-fish-cube-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D141569&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Food Network Tuna Fish Slice",
+    "unit": "250 gm",
+    "price": "৳340",
+    "image": "https://chaldn.com/_mpimage/food-network-tuna-fish-slice-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D141550&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Food Network Basa Fish Cube",
+    "unit": "250 gm",
+    "price": "৳205",
+    "image": "https://chaldn.com/_mpimage/food-network-basa-fish-cube-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D141549&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Chaldal Premium Tatkini Fish Cut & Clean (5-8 pcs) ±50 gm",
+    "unit": "500 gm",
+    "price": "৳189",
+    "image": "https://chaldn.com/_mpimage/chaldal-premium-tatkini-fish-cut-clean-5-8-pcs-50-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D174620&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Chaldal Premium Shing Fish Egg ±10 gm",
+    "unit": "200 gm",
+    "price": "৳239",
+    "image": "https://chaldn.com/_mpimage/chaldal-premium-shing-fish-egg-10-gm-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D168464&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "PQS Halda Hawor Puti Block Fish Processed",
+    "unit": "250 gm",
+    "price": "৳190",
+    "image": "https://chaldn.com/_mpimage/pqs-halda-hawor-puti-block-fish-processed-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D135972&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "PQS Halda Hawor Pabda Block Fish Processed",
+    "unit": "250 gm",
+    "price": "৳260",
+    "image": "https://chaldn.com/_mpimage/pqs-halda-hawor-pabda-block-fish-processed-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D167963&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "PQS Halda Hawor Shing Block Fish Processed",
+    "unit": "250 gm",
+    "price": "৳220",
+    "image": "https://chaldn.com/_mpimage/pqs-halda-hawor-shing-block-fish-processed-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D135971&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "PQS Halda Hawor Mola Block Fish Processed",
+    "unit": "250 gm",
+    "price": "৳275",
+    "image": "https://chaldn.com/_mpimage/pqs-halda-hawor-mola-block-fish-processed-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D135970&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "PQS Halda Hawor Kaski Block Fish Processed",
+    "unit": "250 gm",
+    "price": "৳199",
+    "image": "https://chaldn.com/_mpimage/pqs-halda-hawor-kaski-block-fish-processed-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D167964&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Chaldal Premium Telapiya Fish BBQ Cutting 2 pcs ± 40 gm",
+    "unit": "700 gm",
+    "price": "৳339",
+    "image": "https://chaldn.com/_mpimage/chaldal-premium-telapiya-fish-bbq-cutting-2-pcs-40-gm-700-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D174629&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "The Bachelor Pack Puti Fish Processed",
+    "unit": "150 gm",
+    "price": "৳99",
+    "image": "https://chaldn.com/_mpimage/the-bachelor-pack-puti-fish-processed-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D173623&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "The Bachelor Pack Mola Fish Processed",
+    "unit": "150 gm",
+    "price": "৳99",
+    "image": "https://chaldn.com/_mpimage/the-bachelor-pack-mola-fish-processed-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D173622&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Grass Carp Fish After Cutting ±50 gm",
+    "unit": "1 kg",
+    "price": "৳420",
+    "image": "https://chaldn.com/_mpimage/grass-carp-fish-after-cutting-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D126098&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "PQS Chikra Baim Fish Processed",
+    "unit": "250 gm",
+    "price": "৳265",
+    "image": "https://chaldn.com/_mpimage/pqs-chikra-baim-fish-processed-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D125602&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "PQS Chela Pata Fish Processed",
+    "unit": "250 gm",
+    "price": "৳350",
+    "image": "https://chaldn.com/_mpimage/pqs-chela-pata-fish-processed-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D140749&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "PQS Rohu Fish Processed",
+    "unit": "250 gm",
+    "price": "৳235",
+    "image": "https://chaldn.com/_mpimage/pqs-rohu-fish-processed-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D125597&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "PQS Rani Fish Processed",
+    "unit": "250 gm",
+    "price": "৳398",
+    "image": "https://chaldn.com/_mpimage/pqs-rani-fish-processed-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D125593&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "PQS Taposhi Fish Processed",
+    "unit": "250 gm",
+    "price": "৳300",
+    "image": "https://chaldn.com/_mpimage/pqs-taposhi-fish-processed-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D125585&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "PQS Tengra Fish Processed",
+    "unit": "250 gm",
+    "price": "৳275",
+    "image": "https://chaldn.com/_mpimage/pqs-tengra-fish-processed-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D167962&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Gulsha Fish Medium ±30 gm",
+    "unit": "500 gm",
+    "price": "৳429",
+    "image": "https://chaldn.com/_mpimage/gulsha-fish-medium-30-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103532&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Carfu Fish After Cutting ±50 gm",
+    "unit": "1 kg",
+    "price": "৳439",
+    "image": "https://chaldn.com/_mpimage/carfu-fish-after-cutting-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D175611&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Shol Fish Processed ±50 gm",
+    "unit": "1 kg",
+    "price": "৳949",
+    "image": "https://chaldn.com/_mpimage/shol-fish-processed-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D175612&q=best&v=1&m=400&m=400&webp=1"
+  },
+  {
+    "name": "Boal Fish After Cutting ±50 gm",
+    "unit": "1 kg",
+    "price": "৳859",
+    "image": "https://chaldn.com/_mpimage/boal-fish-after-cutting-50-gm-1-kg?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D103527&q=best&v=1&m=400&m=400&webp=1"
+  },
+  {
+    "name": "Baila Fish Medium ±30 gm",
+    "unit": "500 gm",
+    "price": "৳549",
+    "image": "https://chaldn.com/_mpimage/baila-fish-medium-30-gm-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D120748&q=best&v=1&m=400&m=400&webp=1"
+  }
+]
