@@ -1,3 +1,31 @@
+// Get user data from cookie
+function getUserFromCookie() {
+  const cookies = document.cookie.split(";");
+  for (let cookie of cookies) {
+    const [name, value] = cookie.trim().split("=");
+    if (name === "user") {
+      try {
+        return JSON.parse(decodeURIComponent(value));
+      } catch (e) {
+        console.error("Error parsing user cookie:", e);
+      }
+    }
+  }
+  return null;
+}
+
+// Get CSRF token from cookie
+function getCsrfToken() {
+  const cookies = document.cookie.split(";");
+  for (let cookie of cookies) {
+    const [name, value] = cookie.trim().split("=");
+    if (name === "next-auth.csrf-token") {
+      return value;
+    }
+  }
+  return "";
+}
+
 async function startScraping() {
   const urlInput = document.getElementById("urlInput");
   const scrapeButton = document.getElementById("scrapeButton");
@@ -5,14 +33,20 @@ async function startScraping() {
   const resultsSection = document.getElementById("resultsSection");
   const resultsList = document.getElementById("resultsList");
 
-  // Get URLs from textarea and split by newline
-  const urls = urlInput.value
-    .split("\n")
-    .map((url) => url.trim())
-    .filter((url) => url && url.startsWith("https://chaldal.com/"));
+  // Get URLs from input and validate
+  const urls = [urlInput.value.trim()].filter(
+    (url) => url && url.startsWith("https://chaldal.com/")
+  );
 
   if (urls.length === 0) {
-    alert("Please enter at least one valid Chaldal URL");
+    alert("Please enter a valid Chaldal URL");
+    return;
+  }
+
+  // Get user data
+  const user = getUserFromCookie();
+  if (!user) {
+    alert("Please log in to use the scraper");
     return;
   }
 
@@ -27,9 +61,17 @@ async function startScraping() {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
+        Authorization: `Bearer ${user.token}`,
+        "X-CSRF-Token": getCsrfToken(),
       },
+      credentials: "include",
       body: JSON.stringify({ urls }),
     });
+
+    if (response.status === 401) {
+      alert("Please log in to use the scraper");
+      return;
+    }
 
     const data = await response.json();
 
