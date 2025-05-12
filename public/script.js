@@ -43,13 +43,6 @@ async function startScraping() {
     return;
   }
 
-  // Get user data
-  const user = getUserFromCookie();
-  if (!user) {
-    alert("Please log in to use the scraper");
-    return;
-  }
-
   // Disable button and show loading
   scrapeButton.disabled = true;
   loadingSection.classList.remove("hidden");
@@ -61,17 +54,9 @@ async function startScraping() {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
-        Authorization: `Bearer ${user.token}`,
-        "X-CSRF-Token": getCsrfToken(),
       },
-      credentials: "include",
       body: JSON.stringify({ urls }),
     });
-
-    if (response.status === 401) {
-      alert("Please log in to use the scraper");
-      return;
-    }
 
     const data = await response.json();
 
