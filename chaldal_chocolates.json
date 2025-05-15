@@ -1,0 +1,242 @@
+[
+  {
+    "name": "Cadbury Dairy Milk Chocolate Bar",
+    "unit": "12 gm",
+    "price": "৳30",
+    "image": "https://chaldn.com/_mpimage/cadbury-dairy-milk-chocolate-bar-12-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128477&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Cadbury Dairy Milk Chocolate",
+    "unit": "23 gm",
+    "price": "৳60",
+    "image": "https://chaldn.com/_mpimage/cadbury-dairy-milk-chocolate-23-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D161454&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Snickers Chocolate 50 gm & Mars Chocolate 51 gm (Combo)",
+    "unit": "",
+    "price": "৳230",
+    "image": "https://chaldn.com/_mpimage/snickers-chocolate-50-gm-mars-chocolate-51-gm-combo?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D173613&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Cadbury Dairy Milk Silk Oreo Chocolate",
+    "unit": "60 gm",
+    "price": "৳190",
+    "image": "https://chaldn.com/_mpimage/cadbury-dairy-milk-silk-oreo-chocolate-60-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128515&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Kinder Joy (Boys)",
+    "unit": "20 gm",
+    "price": "৳100",
+    "image": "https://chaldn.com/_mpimage/kinder-joy-boys-20-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D109796&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Kinder Joy (Girls)",
+    "unit": "20 gm",
+    "price": "৳100",
+    "image": "https://chaldn.com/_mpimage/kinder-joy-girls-20-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D109797&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Cadbury Dairy Milk Silk Chocolate",
+    "unit": "60 gm",
+    "price": "৳190",
+    "image": "https://chaldn.com/_mpimage/cadbury-dairy-milk-silk-chocolate-60-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128493&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Cadbury Dairy Milk Silk Mousse Chocolate Bar",
+    "unit": "116 gm",
+    "price": "৳400",
+    "image": "https://chaldn.com/_mpimage/cadbury-dairy-milk-silk-mousse-chocolate-bar-116-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D164245&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Cadbury Dairy Milk Silk Roast Almond Chocolate Bar",
+    "unit": "143 gm",
+    "price": "৳425",
+    "image": "https://chaldn.com/_mpimage/cadbury-dairy-milk-silk-roast-almond-chocolate-bar-143-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128513&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Divino Smile Box",
+    "unit": "192 gm",
+    "price": "৳220",
+    "image": "https://chaldn.com/_mpimage/divino-smile-box-192-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D98734&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Divino Chocolate Little Angel",
+    "unit": "120 gm",
+    "price": "৳160",
+    "image": "https://chaldn.com/_mpimage/divino-chocolate-little-angel-120-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D169407&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Nestle KitKat 4 Fingers 36.5 gm",
+    "unit": "2 pcs",
+    "price": "৳180",
+    "image": "https://chaldn.com/_mpimage/nestle-kitkat-4-fingers-365-gm-2-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D95389&q=best&v=1&m=400&m=400&webp=1"
+  },
+  {
+    "name": "Cadbury Dairy Milk Silk Oreo Chocolate Bar",
+    "unit": "130 gm",
+    "price": "৳400",
+    "image": "https://chaldn.com/_mpimage/cadbury-dairy-milk-silk-oreo-chocolate-bar-130-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128516&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Cadbury Dairy Milk Silk Plain Chocolate Bar",
+    "unit": "150 gm",
+    "price": "৳400",
+    "image": "https://chaldn.com/_mpimage/cadbury-dairy-milk-silk-plain-chocolate-bar-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128496&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Cadbury Dairy Milk Silk Fruit & Nut Chocolate Bar",
+    "unit": "55 gm",
+    "price": "৳190",
+    "image": "https://chaldn.com/_mpimage/cadbury-dairy-milk-silk-fruit-nut-chocolate-bar-55-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128494&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Cadbury Dairy Milk Silk Plain Chocolate",
+    "unit": "60 gm",
+    "price": "৳190",
+    "image": "https://chaldn.com/_mpimage/cadbury-dairy-milk-silk-plain-chocolate-60-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D126420&q=best&v=1&m=400&m=400&webp=1"
+  },
+  {
+    "name": "Cadbury Dairy Milk Crispello",
+    "unit": "35 gm",
+    "price": "৳100",
+    "image": "https://chaldn.com/_mpimage/cadbury-dairy-milk-crispello-35-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128480&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Bounty 2x Chocolate",
+    "unit": "57 gm",
+    "price": "৳120",
+    "image": "https://chaldn.com/_mpimage/bounty-2x-chocolate-57-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D126146&q=best&v=1&m=400&m=400&webp=1"
+  },
+  {
+    "name": "Snickers Chocolate",
+    "unit": "50 gm",
+    "price": "৳110",
+    "image": "https://chaldn.com/_mpimage/snickers-chocolate-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D134866&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Mars Chocolate Bar",
+    "unit": "51 gm",
+    "price": "৳120",
+    "image": "https://chaldn.com/_mpimage/mars-chocolate-bar-51-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130619&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Ferrero Rocher Premium Chocolates 16 Pcs",
+    "unit": "200 gm",
+    "price": "৳1,100",
+    "image": "https://chaldn.com/_mpimage/ferrero-rocher-premium-chocolates-16-pcs-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65345&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Nestle Milkybar White Chocolate Bar",
+    "unit": "24.5 gm",
+    "price": "৳60",
+    "image": "https://chaldn.com/_mpimage/nestle-milkybar-white-chocolate-bar-245-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D100297&q=best&v=1&m=400&m=400&webp=1"
+  },
+  {
+    "name": "Kind Caramel Almond & Sea Salt",
+    "unit": "40 gm",
+    "price": "৳295",
+    "image": "https://chaldn.com/_mpimage/kind-caramel-almond-sea-salt-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D98399&q=best&v=1&m=400&m=400&webp=1"
+  },
+  {
+    "name": "Kind Salted Caramel Dark Chocolate",
+    "unit": "40 gm",
+    "price": "৳295",
+    "image": "https://chaldn.com/_mpimage/kind-salted-caramel-dark-chocolate-40-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D98390&q=best&v=1&m=400&m=400&webp=1"
+  },
+  {
+    "name": "Erko Mallow World Blue & White Mallow",
+    "unit": "100 gm",
+    "price": "৳209",
+    "image": "https://chaldn.com/_mpimage/erko-mallow-world-blue-white-mallow-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D108672&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Erko Mallow World Pink & White Mallow",
+    "unit": "100 gm",
+    "price": "৳199",
+    "image": "https://chaldn.com/_mpimage/erko-mallow-world-pink-white-mallow-100-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D108675&q=best&v=1&m=400&m=400&webp=1"
+  },
+  {
+    "name": "Erko Mallow Plus Twist Mallow",
+    "unit": "180 gm",
+    "price": "৳309",
+    "image": "https://chaldn.com/_mpimage/erko-mallow-plus-twist-mallow-180-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D108671&q=best&v=1&m=400&m=400&webp=1"
+  },
+  {
+    "name": "Cadbury Dairy Milk Silk Chocolate Family Pack",
+    "unit": "123 gm",
+    "price": "৳350",
+    "image": "https://chaldn.com/_mpimage/cadbury-dairy-milk-silk-chocolate-family-pack-123-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D140723&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Cadbury Dairy Milk Silk Hazelnut Chocolate Bar",
+    "unit": "143 gm",
+    "price": "৳400",
+    "image": "https://chaldn.com/_mpimage/cadbury-dairy-milk-silk-hazelnut-chocolate-bar-143-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128495&q=best&v=1&m=400&m=400&webp=1"
+  },
+  {
+    "name": "Cadbury Dairy Milk Silk Bubbly Chocolate",
+    "unit": "120 gm",
+    "price": "৳400",
+    "image": "https://chaldn.com/_mpimage/cadbury-dairy-milk-silk-bubbly-chocolate-120-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128491&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Amul Dark Chocolate Bar",
+    "unit": "150 gm",
+    "price": "৳450",
+    "image": "https://chaldn.com/_mpimage/amul-dark-chocolate-bar-150-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D109914&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Munchy's Oat Krunch Dark Chocolate Cookies",
+    "unit": "208 gm",
+    "price": "৳480",
+    "image": "https://chaldn.com/_mpimage/munchys-oat-krunch-dark-chocolate-cookies-208-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D141630&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Cavendish & Harvey Mango Kiwi Drops",
+    "unit": "200 gm",
+    "price": "৳399",
+    "image": "https://chaldn.com/_mpimage/cavendish-harvey-mango-kiwi-drops-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D126603&q=best&v=1&m=400&m=400&webp=1"
+  },
+  {
+    "name": "Cadbury Dairy Milk Silk Bubbly Chocolate",
+    "unit": "50 gm",
+    "price": "৳190",
+    "image": "https://chaldn.com/_mpimage/cadbury-dairy-milk-silk-bubbly-chocolate-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D128492&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Cadbury Original Drinking Chocolate",
+    "unit": "250 gm",
+    "price": "৳630",
+    "image": "https://chaldn.com/_mpimage/cadbury-original-drinking-chocolate-250-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D126545&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "M&M Peanut Chocolate",
+    "unit": "45 gm",
+    "price": "৳190",
+    "image": "https://chaldn.com/_mpimage/mm-peanut-chocolate-45-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D130473&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "M&M Chocolate",
+    "unit": "45 gm",
+    "price": "৳190",
+    "image": "https://chaldn.com/_mpimage/mm-chocolate-45-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D65297&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Cadbury Celebrations",
+    "unit": "230 gm",
+    "price": "৳850",
+    "image": "https://chaldn.com/_mpimage/cadbury-celebrations-230-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D140724&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Ferrero Rocher Premium Chocolates 24 pcs",
+    "unit": "300 gm",
+    "price": "৳1,800",
+    "image": "https://chaldn.com/_mpimage/ferrero-rocher-premium-chocolates-24-pcs-300-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D78687&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Fresh Chocolate Bar",
+    "unit": "12.5 gm",
+    "price": "৳10",
+    "image": "https://chaldn.com/_mpimage/fresh-chocolate-bar-125-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D157912&q=best&v=1&m=400&webp=1"
+  }
+]
