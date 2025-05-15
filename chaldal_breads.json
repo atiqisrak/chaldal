@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Bread Pit White Bread",
+    "unit": "500 gm",
+    "price": "৳110",
+    "image": "https://chaldn.com/_mpimage/bread-pit-white-bread-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D70765&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Bread Pit Milk Bread",
+    "unit": "300 gm",
+    "price": "৳120",
+    "image": "https://chaldn.com/_mpimage/bread-pit-milk-bread-300-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D114581&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Bread Pit Burger Bun",
+    "unit": "2 pcs",
+    "price": "৳35",
+    "image": "https://chaldn.com/_mpimage/bread-pit-burger-bun-2-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D114575&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Bread Pit Brown Bread",
+    "unit": "300 gm",
+    "price": "৳149",
+    "image": "https://chaldn.com/_mpimage/bread-pit-brown-bread-300-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D82953&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Bread Pit Burger Bun",
+    "unit": "4 pcs",
+    "price": "৳90",
+    "image": "https://chaldn.com/_mpimage/bread-pit-burger-bun-4-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D47937&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Bread Pit Hot Dog Roll",
+    "unit": "200 gm",
+    "price": "৳90",
+    "image": "https://chaldn.com/_mpimage/bread-pit-hot-dog-roll-200-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D167192&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Bread Pit Flat Bread (Naan Bread) 250 gm",
+    "unit": "4 pcs",
+    "price": "৳85",
+    "image": "https://chaldn.com/_mpimage/bread-pit-flat-bread-naan-bread-250-gm-4-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D82291&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Bread Pit Sugar Free Bread Special",
+    "unit": "400 gm",
+    "price": "৳95",
+    "image": "https://chaldn.com/_mpimage/bread-pit-sugar-free-bread-special-400-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D82286&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "name": "Bread Pit Multigrain Bread",
+    "unit": "300 gm",
+    "price": "৳149",
+    "image": "https://chaldn.com/_mpimage/bread-pit-multigrain-bread-300-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D82293&q=best&v=1&m=400&webp=1"
+  }
+]
